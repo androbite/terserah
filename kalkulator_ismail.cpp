@@ -5,7 +5,7 @@ int main(){
 int x,y,hasil;
 	menu :
     cout << "Kalkulator Ismail \n";
-    
+    cout << "================= \n";
     cout << "Pilihan Menu : \n";
     cout << "1.Penjumlahan (+)\n";
     cout << "2.Pengurangan (-)\n";
