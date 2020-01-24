@@ -1,1 +1,8 @@
-Bebas katanya
+<?PHP
+$host="localhost";
+$username="root";
+$password="";
+$databasename="school";
+$koneksi=mysqli_connect($host, $username, $password, $databasename);
+ mysqli_select_db( $koneksi, $databasename);
+?>
