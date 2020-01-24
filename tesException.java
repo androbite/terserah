@@ -3,6 +3,11 @@ public class tesException {
     public static void main(String[] args) {
         // TODO code application logic here
     Barang obj = new Barang();
+        
+        hahahahahhaha
+            hahahahahhahhahahha
+            hahahahhahahahhahhahaha
+            hahahhahahahaahah
            
     obj.setKode(null);
     obj.setNama("Penghapus");
