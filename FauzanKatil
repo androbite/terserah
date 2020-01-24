@@ -4,5 +4,5 @@ if (ahmad_fauzan == "great") {
 cout<<"We Are a Winner"<<endl;
 }
 else {
-ahmad_fauzan = "dead";
+ahmad_fauzan = "biksu";
 }
