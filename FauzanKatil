@@ -1,8 +1,8 @@
-cout<<"My Name is Ahmad Fauzan"<<endl;
+cout<<"My Name is Ahmad Fauzankatil suka makan kodok"<<endl;
 ahmad_fauzan = "great";
 if (ahmad_fauzan == "great") {
 cout<<"We Are a Winner"<<endl;
 }
 else {
-ahmad_fauzan = "biksu";
+ahmad_fauzan = "dead";
 }
