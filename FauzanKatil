@@ -1,1 +1,8 @@
 cout<<"My Name is Ahmad Fauzan"<<endl;
+ahmad_fauzan = "great";
+if (ahmad_fauzan == "great") {
+cout<<"We Are a Winner"<<endl;
+}
+else {
+ahmad_fauzan = "dead";
+}
