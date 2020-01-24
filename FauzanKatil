@@ -1,6 +1,6 @@
 cout<<"My Name is Ahmad Fauzan"<<endl;
-ahmad_fauzan = "great";
-if (ahmad_fauzan == "great") {
+ahmad_fauzan = "life";
+if (ahmad_fauzan == "life") {
 cout<<"We Are a Winner"<<endl;
 }
 else {
