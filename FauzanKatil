@@ -1,4 +1,4 @@
-cout<<"My Name is Ahmad Fauzankatil suka makan kodok"<<endl;
+cout<<"My Name is Ahmad Fauzankatil"<<endl;
 ahmad_fauzan = "great";
 if (ahmad_fauzan == "great") {
 cout<<"We Are a Winner"<<endl;
