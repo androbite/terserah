@@ -1,0 +1,5 @@
+Function kill(){
+
+var kill = documen.getElementByClass('dead');
+
+}
